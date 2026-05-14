@@ -22,3 +22,37 @@ Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Ada_Lovelace)
 
 ### Para conhecer mais
 [Ada Lovelace (Wikipedia)](https://pt.wikipedia.org/wiki/Ada_Lovelace)
+
+# O que aprendi com Git e GitHub
+Git e GitHub são, respectivamente, uma ferramenta de versionamento e uma plataforma de armazenamento de repositório, ambos essenciais para o cenário atual de tecnologia, possibilitando melhor colaboração em projetos totalmente auditáveis. Esse repositório foi criado para falar um pouquinho sobre o que aprendi sobre elas durante o bootcamp da WoMakersCode.
+
+A seguir, vou falar um pouco sobre alguns comandos que utilizei no GitBash para versionar esse repositório:
+
+1. Comandos de navegação:
+
+| cd    | muda o diretório                                 |
+|-------|--------------------------------------------------|
+| cd .. | muda para o diretório-mãe acima do caminho atual |
+| cd -  | muda para o diretório anterior                   |
+| pwd   | printa o diretório atual                         |
+
+2. Comandos de manipulação de arquivo
+
+| prompt | o que faz | exemplo
+|-----------------------------------|------------------------------------------------------------------------------------------| ---------------------------------------------------------|
+| cp (pode ser *copy* em alguns OS) | copia o arquivo indicado                                                                 | Ex.: cp nome-do-arquivo.txt C:/caminho/para/onde/copiar |
+| rm                                | remove o arquivo indicado                                                                | Ex.: rm nome-do-arquivo.txt                             |
+| rm -rf                            | remove forçadamente arquivos e diretórios. Ou seja, não pede pede permissão para apagar. | Ex: rm -rf teste (apaga o diretório "/teste")           |
+| touch                             | cria arquivo no diretório atual                                                          | Ex.: touch README.md                                    |
+| echo                              | modifica arquivo                                                                         | Ex.: echo "Olá, mundo" > README.md                      |
+| cat                               | exibe o conteúdo do arquivo                                                              | Ex.: cat README.md                                      |
+
+3. Comandos de versionamento repositório Git
+
+| prompt                   | o que faz                                                      |
+|--------------------------|----------------------------------------------------------------|
+| git init                 | cria um arquivo oculto que inicializa o repositório localmente |
+| git add                  | adiciona arquivos para stage                                   |
+| git remote add origin    | adiciona arquivos no stage remoto                              |
+| git commit -m "mensagem" | comita os arquivos para a branch remota                        |
+| git push -u main         | transforma a branch em main                                    |
