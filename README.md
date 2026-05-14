@@ -2,14 +2,14 @@
 <div align="center">
 <figure>
 <img src="Ada_Lovelace_portrait.jpg" alt="Retrato de Ada Lovelace" style="max-width: 30%">
-<figcaption>Além de ter escrito o primeito algoritmo de programação, ela também é a diva do squad Ada Lovelace!</figcaption>
+<figcaption>Além de ter escrito o primeito algoritmo de programação, ela também é a diva do squad Ada Lovelace! 💖🦋</figcaption>
 </figure>
 </div>
 
-## Quem foi Ada Lovelace?
+## Quem foi Ada Lovelace? ✨
 Augusta Ada Byron King, Condessa de Lovelace (nascida Byron, 10 de dezembro de 1815 — 27 de novembro de 1852), atualmente conhecida como Ada Lovelace, foi uma matemática e escritora inglesa. Hoje é reconhecida principalmente por ter escrito o primeiro algoritmo para ser processado por uma máquina, a máquina analítica de Charles Babbage. Durante o período em que esteve envolvida com o projeto de Babbage, ela desenvolveu os algoritmos que permitiriam à máquina computar os valores de funções matemáticas, além de publicar uma coleção de notas sobre a máquina analítica. Por esse trabalho é considerada a primeira programadora de toda a história.
 
-## Principais conquistas
+## Principais conquistas 🏆
 Em 1842, Charles Babbage foi convidado a ministrar um seminário na Universidade de Turim sobre sua máquina analítica. Luigi Menabrea, um jovem engenheiro italiano e futuro Primeiro-ministro da Itália, publicou a palestra de Babbage em francês e esta transcrição foi posteriormente publicada na Bibliothèque Universelle de Genève, em 1842.
 
 Babbage pediu a Lovelace para traduzir o artigo de Menabrea para o inglês, adicionando depois a tradução com as anotações que ela mesma havia feito. Lovelace levou grande parte do ano nesta tarefa. Estas notas, que são mais extensas que o artigo de Menabrea, foram então publicados no The Ladies' Diary e no Memorial Científico de Taylor sob as iniciais "AAL".
@@ -24,7 +24,7 @@ Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Ada_Lovelace)
 [Ada Lovelace (Wikipedia)](https://pt.wikipedia.org/wiki/Ada_Lovelace)
 
 # O que aprendi com Git e GitHub
-Git e GitHub são, respectivamente, uma ferramenta de versionamento e uma plataforma de armazenamento de repositório, ambos essenciais para o cenário atual de tecnologia, possibilitando melhor colaboração em projetos totalmente auditáveis. Esse repositório foi criado para falar um pouquinho sobre o que aprendi sobre elas durante o bootcamp da WoMakersCode.
+Git e GitHub são, respectivamente, uma ferramenta de versionamento e uma plataforma de armazenamento de repositório, ambos essenciais para o cenário atual de tecnologia, possibilitando melhor colaboração em projetos totalmente auditáveis. Esse repositório foi criado para falar um pouquinho sobre o que aprendi sobre elas durante o bootcamp da WoMakersCode. 🦋
 
 A seguir, vou falar um pouco sobre alguns comandos que utilizei no GitBash para versionar esse repositório:
 
